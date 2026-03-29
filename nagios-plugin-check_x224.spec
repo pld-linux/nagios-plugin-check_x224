@@ -2,7 +2,7 @@
 Summary:	Nagios plugin to check basic Remote Desktop connection success
 Name:		nagios-plugin-%{plugin}
 Version:	0.1
-Release:	1
+Release:	2
 License:	BSD
 Group:		Networking
 Source0:	http://troels.arvin.dk/code/nagios/%{plugin}
